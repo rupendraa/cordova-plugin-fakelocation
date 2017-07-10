@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-fakelocation",
   "version": "1.0.0",
-  "description": "Checks if "allow mock locations" are enabled",
+  "description": "Checks if allow mock locations are enabled",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

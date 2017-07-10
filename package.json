@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-fakelocation",
+  "version": "1.0.0",
+  "description": "Checks if "allow mock locations" are enabled",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucswift/cordova-plugin-fakelocation.git"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "app",
+    "version",
+    "appversion",
+    "plugin"
+  ],
+  "author": "tomloprod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomloprod/cordova-plugin-fakelocation/issues"
+  },
+  "homepage": "https://github.com/tomloprod/cordova-plugin-fakelocation#readme"
+}
